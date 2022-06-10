@@ -1,0 +1,4 @@
+/data
+/temp
+hs_err*.log
+.ipynb_checkpoints*
